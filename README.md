@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="#" target="_blank">
-  <img src="svg/sutvdev.svg" width="1200" alt="sutv6601" />
+  <img src="sutvdev.svg" width="1200" alt="khanhvtrng12" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
